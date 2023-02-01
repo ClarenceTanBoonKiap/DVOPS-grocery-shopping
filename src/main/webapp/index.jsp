@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>This will be our jenkins server test title CICDs</title>
+<title>This will be our jenkins server test title CICD</title>
 <style>
 
 </style>
@@ -18,4 +18,4 @@
 
 
 </body>
-</html>
+</html>		
