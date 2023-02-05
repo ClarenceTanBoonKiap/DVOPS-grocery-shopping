@@ -4,7 +4,11 @@
 <html>
 <head>
 <meta charset="UTF-8">
+<<<<<<< HEAD
 <title>This will be our jenkin server test title CICD</title>
+=======
+<title>This will be our jenkins server test title CICD</title>
+>>>>>>> branch 'master' of https://github.com/ClarenceTanBoonKiap/DVOPS-grocery-shopping.git
 <style>
 
 </style>
