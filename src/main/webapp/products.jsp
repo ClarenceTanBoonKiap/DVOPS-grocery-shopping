@@ -185,6 +185,8 @@ li a:hover {
 		<li><a href="products.jsp">Products</a></li>
 		<li><a href="contactUs.jsp">Contact</a></li>
 		<li><a href="aboutus.jsp">About Us</a></li>
+		<li><a href="register.jsp">Register</a></li>
+		<li><a href="login.jsp">Login</a></li>s
 	</ul>
 
 	<h1>Our Products</h1>

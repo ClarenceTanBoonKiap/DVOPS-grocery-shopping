@@ -44,8 +44,12 @@ li a:hover {
 		<li><a href="products.jsp">Products</a></li>
 		<li><a href="contactUs.jsp">Contact</a></li>
 		<li><a href="aboutus.jsp">About Us</a></li>
+		<li><a href="register.jsp">Register</a></li>
+		<li><a href="login.jsp">Login</a></li>
+			<li><a href="checkout.jsp">checkout</a></li>
+		
 	</ul>
-
+s
 	<!-- Header image -->
 	<div
 		style="height: 800px; background-image: url('https://media.timeout.com/images/105790644/750/562/image.jpg'); background-size: cover"
