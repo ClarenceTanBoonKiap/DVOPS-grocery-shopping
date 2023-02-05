@@ -9,7 +9,7 @@
 
 </style>
 </head>
-<body>
+<body>	
 	
 <h1>Grocery store</h1>
 <a href="home.jsp">
